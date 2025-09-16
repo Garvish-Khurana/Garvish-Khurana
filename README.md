@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Garvish-Khurana/Garvish-Khurana/Output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Garvish-Khurana/Garvish-Khurana/main/Output/snake.svg" alt="Snake animation" />
 
 ###
