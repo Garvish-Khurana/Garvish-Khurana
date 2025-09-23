@@ -7,10 +7,10 @@
 - 🚀 Currently working on impactful projects using Tailwind CSS, MongoDB, Node.js, and AWS
 - 🌱 Constantly learning advanced React patterns, cloud deployment, and backend optimization
 - ⚡ Dedicated to clean code, problem solving, and continuous improvement
-
+---
 **Connect with me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-@garvish%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:garvish@email.com)](mailto:garvish@email.com)
+![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3garvish%40email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=333)](https://github.com/Garvish-Khurana)
 
 ---
@@ -52,9 +52,13 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Garvish-Khurana&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Garvish-Khurana&theme=tokyonight&show_icons=true&hide_border=false&count_private=true%22/%3E&nbsp;" height="150px" />
   &nbsp;&nbsp;
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvish-Khurana&langs_count=5&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img alt="stats" src = "https://github-readme-streak-stats.herokuapp.com/?user=Garvish-Khurana&theme=tokyonight&count_private=true" height="150px"/>
+  &nbsp;
+</div>
+<div align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvish-Khurana&langs_count=5&layout=compact&theme=dracula&hide_border=false" height="150px" />
 </div>
 
 ---
