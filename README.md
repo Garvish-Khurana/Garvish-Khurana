@@ -62,8 +62,10 @@
 # 🚀 Projects
 
 <div align="center">
-  <a href="https://sketch-flow-iota.vercel.app/" target="_blank"><img src="./img/sketchflow-img.png" alt="Project 1" height="150" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://level-up-version-beta.vercel.app/" target="_blank"><img src="./img/levelup-img.png" alt="Project 2" height="150" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://sketch-flow-iota.vercel.app/" target="_blank"><img src="./img/sketchflow-img.png" alt="Project 1" height="200" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://level-up-version-beta.vercel.app/" target="_blank"><img src="./img/levelup-img.png" alt="Project 2" height="200" />
+</a>
+
 </div>
 
 ---
