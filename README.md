@@ -51,13 +51,13 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Garvish-Khurana&theme=tokyonight&show_icons=true&hide_border=false&count_private=true%22/%3E&nbsp;" height="150px" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Garvish-Khurana&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150px" />
   &nbsp;&nbsp;
   <img alt="stats" src = "https://github-readme-streak-stats.herokuapp.com/?user=Garvish-Khurana&theme=tokyonight&count_private=true" height="150px"/>
   &nbsp;
 </div>
 <div align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvish-Khurana&langs_count=5&layout=compact&theme=dracula&hide_border=false" height="150px" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvish-Khurana&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="150px" />
 </div>
 
 ---
