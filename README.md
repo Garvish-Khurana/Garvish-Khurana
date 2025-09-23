@@ -7,7 +7,7 @@
 - 🚀 Currently working on impactful projects using Tailwind CSS, MongoDB, Node.js, and AWS
 - 🌱 Constantly learning advanced React patterns, cloud deployment, and backend optimization
 - ⚡ Dedicated to clean code, problem solving, and continuous improvement
----
+- 
 **Connect with me:**
 
 ![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3garvish%40email.com)
